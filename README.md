@@ -1,4 +1,5 @@
-# Pi Talk Native: Custom Embedded Edge-AI Voice Companion
+# PiTalk Local: Custom Embedded Edge-AI Voice Companion
+[![View Demo](https://img.shields.io/badge/🎥_Project-Video_Demo-blue?style=flat-square)](./DEMO.md)
 
 A voice assistant powered by a Raspberry Pi 5 single-board computer.
 
