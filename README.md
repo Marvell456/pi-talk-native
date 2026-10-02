@@ -1,4 +1,4 @@
-# PiTalk Local
+# Offline Pi Assistant
 
 A voice assistant I made with a Raspberry Pi 5. It runs offline. You hold a button, talk, and it shows a reply on a small screen.
 
