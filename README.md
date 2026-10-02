@@ -4,7 +4,7 @@ A voice assistant I built on a Raspberry Pi 5. No cloud, no APIs, everything run
 
 I wanted to see if I could make something like Alexa but completely offline. Turns out you can, it's just kinda slow and takes some fiddling to get working.
 
-Go to DEMO.MD for the demo video
+Go to DEMO.md for the demo video
 
 ---
 
